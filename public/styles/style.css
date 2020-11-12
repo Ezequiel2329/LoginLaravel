@@ -1,0 +1,226 @@
+/*General*/
+body{
+    padding-bottom: 50px;
+    background-image: url(https://images7.alphacoders.com/805/805197.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1,h3,p,h4{
+    color: white;
+}
+label{
+    color: white;
+    font-size: 150%;
+}
+h4{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#contenidoPin{
+    text-align: center;
+    color: white;
+}
+
+#loginP{
+    background-color: grey;
+    width: 300px;
+    height: 400px;
+    display:block;
+    margin:auto;
+    padding-left: 20px;
+}
+
+#boton{
+    background-color: rgb(0, 33, 105);
+    color: white;
+    display:block;
+    margin:auto;
+}
+#tamañoImg{
+    width: 300px;
+    height: 400px;
+    display:block;
+    margin:auto;
+}
+
+/*Texto aparte*/
+#textFooter{
+    color: white;
+    text-align: center;
+}
+#titlelogin{
+    text-align: center;
+}
+#text{
+    text-align: center;
+    text-decoration: unset;
+}
+
+#title{
+    text-align: center;
+    font-size: 300%;
+    padding-top: 10px;
+}
+/*Imagenes pintor 1*/
+#p1c1{
+    width: 300px;
+    height: 370px;
+    display:block;
+    margin:auto;
+}
+#p1c2{
+    width: 500px;
+    height: 370px;
+    display:block;
+    margin:auto;
+}
+#p1c3{
+    width: 500px;
+    height: 380px;
+    display:block;
+    margin:auto;
+}
+#p1c4{
+    width: 500px;
+    height: 400px;
+    display:block;
+    margin:auto;
+}
+#p1c5{
+    width: 300;
+    height: 380px;
+    display:block;
+    margin:auto;
+}
+
+/*Imagenes pintor 2*/
+#p2c1{
+    width: 300px;
+    height: 400px;
+    display:block;
+    margin:auto;
+}
+#p2c2{
+    width: 500px;
+    height: 320px;
+    display:block;
+    margin:auto;
+}
+#p2c3{
+    width: 300px;
+    height: 430px;
+    display:block;
+    margin:auto;
+}
+#p2c4{
+    width: 300px;
+    height: 350px;
+    display:block;
+    margin:auto;
+}
+#p2c5{
+    width: 300px;
+    height: 550px;
+    display:block;
+    margin:auto;
+}
+
+/*Imagenes pintor 3*/
+#p3c1{
+    width: 500px;
+    height: 400px;
+    display:block;
+    margin:auto;
+}
+#p3c2{
+    width: 500px;
+    height: 550px;
+    display:block;
+    margin:auto;
+}
+#p3c3{
+    width: 300px;
+    height: 450px;
+    display:block;
+    margin:auto;
+}
+#p3c4{
+    width: 500px;
+    height: 400px;
+    display:block;
+    margin:auto;
+}
+#p3c5{
+    width: 300px;
+    height: 550px;
+    margin-left: 20px;
+    display:block;
+    margin:auto;
+}
+
+/*Imagenes pintor 4*/
+#p4c1{
+    width: 350px;
+    height: 600px;
+    display:block;
+    margin:auto;
+}
+#p4c2{
+    width: 350px;
+    height: 500px;
+    display:block;
+    margin:auto;
+}
+#p4c3{
+    width: 400px;
+    height: 600px;
+    display:block;
+    margin:auto;
+}
+#p4c4{
+    width: 400px;
+    height: 650px;
+    display:block;
+    margin:auto;
+}
+#p4c5{
+    width: 400px;
+    height: 300px;
+    display:block;
+    margin:auto;
+}
+
+/*Imagenes pintor 5*/
+#p5c1{
+    width: 400px;
+    height: 525px;
+    display:block;
+    margin:auto;
+}
+#p5c2{
+    width: 400px;
+    height: 500px;
+    display:block;
+    margin:auto;
+}
+#p5c3{
+    width: 400px;
+    height: 550px;
+    display:block;
+    margin:auto;
+}
+#p5c4{
+    width: 400px;
+    height: 500px;
+    display:block;
+    margin:auto;
+}
+#p5c5{
+    width: 400px;
+    height: 520px;
+    display:block;
+    margin:auto;
+}
